@@ -15,6 +15,7 @@ Runs on a cloud-based infrastructure (AWS EC2)
 Deploys a sample Java web application to Tomcat
 
 🧰 **Tech Stack**
+
 AWS EC2
 
 Jenkins
