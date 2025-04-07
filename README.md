@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/416f73b4-613d-4d0f-b762-481680133afc)![image](https://github.com/user-attachments/assets/c2730e73-4ec4-4f56-b709-b25d328acbbf)🚀 DevOps CI/CD Pipeline Project with Jenkins on AWS
+🚀 DevOps CI/CD Pipeline Project with Jenkins on AWS
 This project demonstrates a complete DevOps CI/CD pipeline using Jenkins, Maven, and Docker, deployed on an AWS EC2 instance. It automates the process of building, testing, and deploying a sample Java application to ensure continuous delivery and integration.
 
 **📌 Project Overview**
